@@ -1,0 +1,33 @@
+.navbar {
+    padding 1rem;
+    background-color: rgb(0, 153, 204);
+}
+
+.nav-item {
+    color:  rgb(195, 205, 178);
+}
+
+.navbar-brand{
+    color:rgb(169, 228, 84);
+}
+
+.jumbotron {
+    color:  rgb(195, 205, 178);
+}
+
+.bg-secondary{
+    height: 2rem;
+}
+
+.btn-primary:hover{
+    background: blue;
+    color:white;
+}
+
+.hero-background-img {
+  background-image: url("launchPic.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:280px;
+}
